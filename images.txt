@@ -1,5 +1,4 @@
 ollama/ollama:latest
 ubuntu:22.04
 ubuntu:22.10
-ascendai/cann:8.0.rc1-910b-ubuntu22.04-py3.8
-ascendai/cann:8.0.rc1-910b-ubuntu22.04-py3.8@sha256:b518ecd1b2f60886bda102050d0148192ae01698c3db1bb31230ae582d3d15c9
+ascendai/cann:8.0.rc1-910b-ubuntu22.04-py3.8@sha256:b470955d4747374aac1769c09407099331a7c9a93213caefd398680dc9a45c0a
