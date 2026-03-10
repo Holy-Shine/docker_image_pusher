@@ -1,4 +1,3 @@
-ubuntu:22.04
 ubuntu:22.10
-ascendai/cann:8.0.rc1-910b-ubuntu22.04-py3.8@sha256:b470955d4747374aac1769c09407099331a7c9a93213caefd398680dc9a45c0a
 centos:centos7.9.2009
+hxsoong/kylin:v10-sp1
